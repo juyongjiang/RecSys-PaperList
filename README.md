@@ -1,13 +1,56 @@
-# **AAAI‐21 Accepted Papers — Main Technical Track**
+## ***Paper List of Recommendation System ***
+
+### Table of Contents
+1. [AAAI-20](https://github.com/juyongjiang/RecSys-PaperList#1-AAAI-20)
+2. [AAAI-21](https://github.com/juyongjiang/RecSys-PaperList#2-AAAI-21)
+
+# **AAAI‐20**
+
+### (27/1590)
+
+|Num |Title| 
+|-----|-----|
+|(1) |**PEIA: Personality and Emotion Integrated Attentive Model for Music Recommendation on Social Media** |
+|(2) |**Where to Go Next: Modeling Long-and Short‐Term User Preferences for Point-of‐Interest Recommendation** |
+|(3) | **A Knowledge­Aware Attentional Reasoning Network for Recommendation** |
+|(4)  |**Enhancing Personalized Trip Recommendation with Attractive Routes** |
+|(5)  |   **Efficient Heterogeneous Collaborative Filtering without Negative Sampling for Recommendation** |
+|(6)  | **An Attentional Recurrent Neural Network for Personalized Next Location Recommendation** |
+|(7)  |  **Memory Augmented Graph Neural Networks for Sequential Recommendation**| 
+|(8)  |  **Leveraging Title-Abstract Attentive Semantics for Paper Recommendation** |
+|(9)  |  **Diversified Interactive Recommendation with Implicit Feedback** |
+|(10)  | **Question-driven Purchasing Propensity Analysis for Recommendation**| 
+|(11)  |   **Sequential Recommendation with Relation-Aware Kernelized Self-­Attention**| 
+|(12)  |  **Incremental Fairness in Two‐Sided Market Platforms: On Smoothly Updating Recommendations** |
+|(13)  |  **Attention‐guide Walk Model in Heterogeneous Information Network for Multi-­style Recommendation**| 
+|(14)  |  **Table2Analysis: Modeling and Recommendation of Common Analysis Patterns for Multi-Dimensional Data** |
+|(15)  |  **Symmetric Metric Learning with Adaptive Margin for Recommendation** |
+|(16)  |  **Multi-­Feature Discrete Collaborative Filtering for Fast Cold-­start Recommendation**| 
+|(17)  |   **Towards Comprehensive Recommender Systems: Time­Aware Unified Recommendations Based on Listwise Ranking of Implicit Cross-Network Data**| 
+|(18)  |  **Fast Adaptively Weighted Matrix Factorization for Recommendation with Implicit Feedback**| 
+|(19)  |  **Towards Hands‐free Visual Dialog Interactive Recommendation**| 
+|(20)  | **Contextual-Bandit Based Personalized Recommendation with Time-­Varying User Interests** |
+|(21)  |   **Stochastically Robust Personalized Ranking for LSH Recommendation Retrieval**| 
+|(22)  | **Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach**| 
+|(23)  |  **Multi-Component Graph Convolutional Collaborative Filtering** |
+|(24)  |  **Deep Match to Rank Model for Personalized Click-Through Rate Prediction**| 
+|(25)  |  **Deep Time-Stream Framework for Click-Through Rate Prediction by Tracking Interest Evolution** |
+|(26)  |   **Improved Algorithms for Conservative Exploration in Bandits**| 
+|(27)  |  **Linear Bandits with Feature Feedback** |
+
+
+# **AAAI‐21**
+
+### (33/1696)
+
 ```Note: 70.6% of accepted papers are student papers.```
 | |#submissions  |  #accepts  |  #Acceptance Rate
-|----|:----:|:----:|:----:|
+|----|----|----|----|
 |AAAI (overall) | 7911  |  1696  |  21.4%|
 |Regular (Main) | 6993  |  1388  |  19.8%|
 |Regular (AISI) | 140 |40 | 28.6%|
 |FastTrack |  778 |268 |34.4%|
 
-## ***Recommendation System Areas***
 ### ***Main Track***
 |Num |ID  |Title| Author|
 |-----|-----|-----|-----|
@@ -41,12 +84,10 @@
 |(28)  |  9137  |  **Graph‐Enhanced Multi‐Task Learning of Multi‐Level Transition Dynamics for Session-Based Recommendation**| Chao Huang, Jiahui Chen, Lianghao Xia, Yong Xu, Peng Dai, Yanqing Chen, Liefeng Bo, Jiashu Zhao, Jimmy Huang|
 |(29) |   9265   | **Deep Transfer Tensor Decomposition with Orthogonal Constraint for Recommender Systems** |Zhengyu Chen, Ziqing Xu, Donglin Wang|
 |(30)  |  9385 |  **A General Offline Reinforcement Learning Framework for Interactive Recommendation** |Teng Xiao, Donglin Wang|
-|(31)|4981|**Personalized Adaptive Meta Learning for Cold‐Start User Preference Prediction**|Runsheng Yu, Yu Gong, Xu He, Yu Zhu, Qingwen Liu, Wenwu Ou, Bo An|
 
 ### ***Special Track on AI for Social Impact***
 |Num |ID  |Title|Author|
 |-----|-----|-----|-----|
-|(32)  |  3785 |   **Intelligent Recommendations for Citizen Science** |Kobi Gal, Guy Shani, Avi Segal, Darlene Cavalier, Daniel Ben Zaken|
-|(33)  |  8731  |  **Degree Planning with PLAN‐BERT: Multi-Semester Recommendation Using Future Courses of Interest**| Erzhuo Shao, Shiyuan Guo, Zachary A Pardos|
-
+|(31)  |  3785 |   **Intelligent Recommendations for Citizen Science** |Kobi Gal, Guy Shani, Avi Segal, Darlene Cavalier, Daniel Ben Zaken|
+|(32)  |  8731  |  **Degree Planning with PLAN‐BERT: Multi-Semester Recommendation Using Future Courses of Interest**| Erzhuo Shao, Shiyuan Guo, Zachary A Pardos|
 
