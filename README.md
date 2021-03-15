@@ -1,4 +1,4 @@
-## *** Paper List of Recommendation System ***
+## ***Paper List of Recommendation System***
 
 ### Table of Contents
 1. [AAAI-20](https://github.com/juyongjiang/RecSys-PaperList#1-AAAI-20)
