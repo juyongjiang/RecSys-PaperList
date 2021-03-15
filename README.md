@@ -11,12 +11,9 @@
 ### ***Main Track***
 |Num |ID  |Title|
 |-----|-----|-----|
-|(1) |233 |**RevMan: Revenue-Aware Multi-Task Online Insurance Recommendation**
-Yu Li, Yi Zhang, Lu Gan, GengWei Hong, Zimu Zhou, Qiang Li|
-|(2) |279 |**Detecting Beneficial Feature Interactions for Recommender Systems**
-Yixin Su, Rui Zhang, Sarah Erfani, Zhenghua Xu|
-|(3) |444| **FedRec++: Lossless Federated Recommendation with Explicit Feedback**
-Feng Liang, Weike Pan, Zhong Ming|
+|(1) |233 |**RevMan: Revenue-Aware Multi-Task Online Insurance Recommendation** Yu Li, Yi Zhang, Lu Gan, GengWei Hong, Zimu Zhou, Qiang Li|
+|(2) |279 |**Detecting Beneficial Feature Interactions for Recommender Systems** Yixin Su, Rui Zhang, Sarah Erfani, Zhenghua Xu|
+|(3) |444| **FedRec++: Lossless Federated Recommendation with Explicit Feedback** Feng Liang, Weike Pan, Zhong Ming|
 |(4) |615 |**Graph Heterogeneous Multi‐Relational Recommendation**
 Chong Chen, Weizhi Ma, Min Zhang, Zhaowei Wang, Xiuqiang He, Chenyang Wang, Yiqun Liu, Shaoping Ma|
 |(5) |1169 |   **Hierarchical Reinforcement Learning for Integrated Recommendation**
