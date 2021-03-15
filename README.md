@@ -41,10 +41,12 @@
 |(28)  |  9137  |  **Graph‐Enhanced Multi‐Task Learning of Multi‐Level Transition Dynamics for Session-Based Recommendation**| Chao Huang, Jiahui Chen, Lianghao Xia, Yong Xu, Peng Dai, Yanqing Chen, Liefeng Bo, Jiashu Zhao, Jimmy Huang|
 |(29) |   9265   | **Deep Transfer Tensor Decomposition with Orthogonal Constraint for Recommender Systems** |Zhengyu Chen, Ziqing Xu, Donglin Wang|
 |(30)  |  9385 |  **A General Offline Reinforcement Learning Framework for Interactive Recommendation** |Teng Xiao, Donglin Wang|
+|(31)|4981|**Personalized Adaptive Meta Learning for Cold‐Start User Preference Prediction**|Runsheng Yu, Yu Gong, Xu He, Yu Zhu, Qingwen Liu, Wenwu Ou, Bo An|
 
 ### ***Special Track on AI for Social Impact***
 |Num |ID  |Title|Author|
 |-----|-----|-----|-----|
-|(31)  |  3785 |   **Intelligent Recommendations for Citizen Science** |Kobi Gal, Guy Shani, Avi Segal, Darlene Cavalier, Daniel Ben Zaken|
-|(32)  |  8731  |  **Degree Planning with PLAN‐BERT: Multi-Semester Recommendation Using Future Courses of Interest**| Erzhuo Shao, Shiyuan Guo, Zachary A Pardos|
+|(32)  |  3785 |   **Intelligent Recommendations for Citizen Science** |Kobi Gal, Guy Shani, Avi Segal, Darlene Cavalier, Daniel Ben Zaken|
+|(33)  |  8731  |  **Degree Planning with PLAN‐BERT: Multi-Semester Recommendation Using Future Courses of Interest**| Erzhuo Shao, Shiyuan Guo, Zachary A Pardos|
+
 
