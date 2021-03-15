@@ -1,7 +1,7 @@
-# AAAI‐21 Accepted Papers — Main Technical Track 
-Note: 70.6% of accepted papers are student papers. 
-| # |   #submissions  |  #accepts  |  #Acceptance Rate
-|----|----|
+# AAAI‐21 Accepted Papers — Main Technical Track
+Note: 70.6% of accepted papers are student papers.
+| |#submissions  |  #accepts  |  #Acceptance Rate
+|----|----|----|----|
 |AAAI (overall) | 7911  |  1696  |  21.4%|
 |Regular (Main) | 6993  |  1388  |  19.8%|
 |Regular (AISI) | 140 |40 | 28.6%|
@@ -75,5 +75,4 @@ Special Track on AI for Social Impact
 Kobi Gal, Guy Shani, Avi Segal, Darlene Cavalier, Daniel Ben Zaken
 (32)    8731    Degree Planning with PLAN‐BERT: Multi-Semester Recommendation Using Future Courses of Interest
 Erzhuo Shao, Shiyuan Guo, Zachary A Pardos
-
 
