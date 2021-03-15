@@ -1,7 +1,7 @@
-# AAAI‐21 Accepted Papers — Main Technical Track
-Note: 70.6% of accepted papers are student papers.
+# AAAI‐21 Accepted Papers — Main Technical Track 
+Note: 70.6% of accepted papers are student papers. 
 |    #submissions  |  #accepts  |  #Acceptance Rate
-|---|---|
+|----|----|
 |AAAI (overall) | 7911  |  1696  |  21.4%|
 |Regular (Main) | 6993  |  1388  |  19.8%|
 |Regular (AISI) | 140 |40 | 28.6%|
