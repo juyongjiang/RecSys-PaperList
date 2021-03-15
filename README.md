@@ -1,5 +1,5 @@
 # **AAAI‐21 Accepted Papers — Main Technical Track**
-```Note: 70.6% of accepted papers are student papers.```
+···Note: 70.6% of accepted papers are student papers.···
 | |#submissions  |  #accepts  |  #Acceptance Rate
 |----|----|----|----|
 |AAAI (overall) | 7911  |  1696  |  21.4%|
@@ -43,8 +43,8 @@
 |(30)  |  9385 |  **A General Offline Reinforcement Learning Framework for Interactive Recommendation** |Teng Xiao, Donglin Wang|
 
 ### ***Special Track on AI for Social Impact***
-|Num |ID  |Title|
-|-----|-----|-----|
+|Num |ID  |Title|Author|
+|-----|-----|-----|-----|
 |(31)  |  3785 |   **Intelligent Recommendations for Citizen Science** |Kobi Gal, Guy Shani, Avi Segal, Darlene Cavalier, Daniel Ben Zaken|
 |(32)  |  8731  |  **Degree Planning with PLAN‐BERT: Multi-Semester Recommendation Using Future Courses of Interest**| Erzhuo Shao, Shiyuan Guo, Zachary A Pardos|
 
