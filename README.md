@@ -1,8 +1,8 @@
-## ***Paper List of Recommendation System***
+# ***Paper List of Recommendation System***
 
 - #### AAAI [[20](https://github.com/juyongjiang/RecSys-PaperList#aaai20)][[21](https://github.com/juyongjiang/RecSys-PaperList#aaai21)]
 
-# AAAI‐20
+## AAAI‐20
 
 ### (27/1590)
 
@@ -37,7 +37,7 @@
 |(27)  |  **Linear Bandits with Feature Feedback** |
 
 
-# AAAI‐21
+## AAAI‐21
 
 ### (33/1696)
 
